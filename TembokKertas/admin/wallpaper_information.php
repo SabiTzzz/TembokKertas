@@ -39,7 +39,7 @@
                 <input type="text" name="keyword" id="keyword" placeholder="Searching...">
             </div>
         </section>
-        <div class="tag-content">
+        <div class="tag-content" id="wallpaper-table">
             <div class="backtoadmin">
                 <a href="berandaatmin.php">Back</a>
             </div>
@@ -83,5 +83,6 @@
             </div>
         </table>
     </section>
+    <script src="../element/script.js"></script>
 </body>
 </html>
